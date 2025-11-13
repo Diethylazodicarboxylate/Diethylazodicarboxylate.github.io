@@ -1,0 +1,52 @@
+baseURL = 'https://diethylazodicarboxylate.github.io'
+languageCode = 'en-us'
+publishDir = 'docs'
+title = 'Deadcats'
+theme = 'archie'
+copyright = "@deadcats.space"
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[pagination]
+  pagerSize = 3 # articles per page
+
+
+[params]
+mode = "dark"
+useCDN = false
+subtitle = "Deadcats CTF Team — Write-ups, Challenges, and Cybersecurity Adventures"
+mainSections = ["posts"]
+summaryLength = 0
+
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+
+[[menu.main]]
+name = "Members"
+url = "/members"
+weight = 4

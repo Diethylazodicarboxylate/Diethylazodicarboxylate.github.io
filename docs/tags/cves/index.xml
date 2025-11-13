@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CVEs on Deadcats</title>
+    <link>https://diethylazodicarboxylate.github.io/tags/cves/</link>
+    <description>Recent content in CVEs on Deadcats</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>@deadcats.space</copyright>
+    <lastBuildDate>Thu, 13 Nov 2025 15:00:00 +0545</lastBuildDate>
+    <atom:link href="https://diethylazodicarboxylate.github.io/tags/cves/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Report 🐈‍⬛</title>
+      <link>https://diethylazodicarboxylate.github.io/posts/research/</link>
+      <pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate>
+      <guid>https://diethylazodicarboxylate.github.io/posts/research/</guid>
+      <description>&lt;p&gt;This is a short description of the post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deadcats</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Deadcats</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>@deadcats.space</copyright>
+    <lastBuildDate>Thu, 13 Nov 2025 15:00:00 +0545</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;deadcats&#34;&gt;DEADCATS&lt;/h1&gt;&#xA;&lt;p&gt;Diethylazodicarboxylate, conventionally abbreviated as &lt;strong&gt;DEAD&lt;/strong&gt; and sometimes as &lt;strong&gt;DEADCAT&lt;/strong&gt;, is an organic compound with the structural formula (C₆H₁₀N₂O₂), which is also—somehow—a CTF-playing Cybersecurity team.&lt;/p&gt;&#xA;&lt;p&gt;We actively participate in online and on-site CTF competitions. We are a group of Cybersecurity Wizards interested in various areas including software security, web security, cryptography, IoT security, etc.&lt;/p&gt;&#xA;&lt;p&gt;📧 Contact us at: &lt;strong&gt;&lt;a href=&#34;mailto:0xdiethylazodicarboxylate@gmail.com&#34;&gt;0xdiethylazodicarboxylate@gmail.com&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;No Mercy, No Meow.&lt;/p&gt;&#xA;&lt;p&gt;Hack for fun, not for profit.&lt;/p&gt;&#xA;&lt;p&gt;Maybe for little profit also.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deadcats Start Operating 🐈‍⬛</title>
+      <link>http://localhost:1313/posts/deadcats-begins/</link>
+      <pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate>
+      <guid>http://localhost:1313/posts/deadcats-begins/</guid>
+      <description>&lt;p&gt;This is a short description of the post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Report 🐈‍⬛</title>
+      <link>http://localhost:1313/posts/research/</link>
+      <pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate>
+      <guid>http://localhost:1313/posts/research/</guid>
+      <description>&lt;p&gt;This is a short description of the post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>shit 🐈‍⬛</title>
+      <link>http://localhost:1313/posts/shit/</link>
+      <pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate>
+      <guid>http://localhost:1313/posts/shit/</guid>
+      <description>&lt;p&gt;This is a short description of the post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0x0w1z</title>
+      <link>http://localhost:1313/members/0x0w1z/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/0x0w1z/</guid>
+      <description>&lt;p&gt;Clicks links, finds flags, disappears.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>404Buddha</title>
+      <link>http://localhost:1313/members/404buddha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/404buddha/</guid>
+      <description>&lt;p&gt;Enlightened. Breaks security for inner peace.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>At0m</title>
+      <link>http://localhost:1313/members/at0m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/at0m/</guid>
+      <description>&lt;p&gt;Why can&amp;rsquo;t you trust At0m? Because they make everything up.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DR.Who</title>
+      <link>http://localhost:1313/members/dr-who/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/dr-who/</guid>
+      <description>&lt;p&gt;Why can&amp;rsquo;t you trust At0m? Because they make everything up.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ebi</title>
+      <link>http://localhost:1313/members/ebi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/ebi/</guid>
+      <description>&lt;p&gt;Why can&amp;rsquo;t you trust At0m? Because they make everything up.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Null.py</title>
+      <link>http://localhost:1313/members/nullpy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/nullpy/</guid>
+      <description>&lt;p&gt;Breaks bugs, builds defenses. Stays playing with HTML for 4 hrs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>P0u</title>
+      <link>http://localhost:1313/members/p0u/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/members/p0u/</guid>
+      <description>&lt;p&gt;Just here for sanity. Installs SageMath once, regrets it forever.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
