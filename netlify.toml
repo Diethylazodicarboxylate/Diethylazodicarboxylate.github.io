@@ -6,7 +6,7 @@ NODE_VERSION = "22.20.0"
 TZ = "Europe/Oslo"
 
 [build]
-publish = "/"
+publish = "public"
 command = """\
   git config core.quotepath false && \
   hugo --gc --minify --baseURL "${URL}"
