@@ -1,11 +1,11 @@
 ---
-title: "Report 🐈‍⬛"
+title: "CVE-2025-61777 🐈‍⬛"
 date: 2025-11-13T15:00:00+05:45
 draft: false
 tags: ["Web Hacking", "CVEs"]
 ---
 
-This is a short description of the post. <!--more-->
+CVEs Report of Unauthorized modification of badge templates on Flagforge CTF on versions v2.0.0 to v2.3.1. <!--more-->
 
 
 
@@ -148,3 +148,6 @@ x-xss-protection: 1; mode=block
 - CWE-284: https://cwe.mitre.org/data/definitions/284.html
 - OWASP API Security Top 10: https://owasp.org/www-project-api-security/
 - CVSS v3.1 Calculator: https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
+
+
+**Author** : **0x0w1z**

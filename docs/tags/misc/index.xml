@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Misc on Deadcats</title><link>https://diethylazodicarboxylate.github.io/tags/misc/</link><description>Recent content in Misc on Deadcats</description><generator>Hugo</generator><language>en-us</language><copyright>@deadcats.space</copyright><lastBuildDate>Thu, 13 Nov 2025 15:00:00 +0545</lastBuildDate><atom:link href="https://diethylazodicarboxylate.github.io/tags/misc/index.xml" rel="self" type="application/rss+xml"/><item><title>Deadcats Start Operating 🐈‍⬛</title><link>https://diethylazodicarboxylate.github.io/posts/deadcats-begins/</link><pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate><guid>https://diethylazodicarboxylate.github.io/posts/deadcats-begins/</guid><description>&lt;p&gt;This is a short description of the post.&lt;/p&gt;</description></item><item><title>shit 🐈‍⬛</title><link>https://diethylazodicarboxylate.github.io/posts/shit/</link><pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate><guid>https://diethylazodicarboxylate.github.io/posts/shit/</guid><description>&lt;p&gt;This is a short description of the post.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on Deadcats</title>
+    <link>http://localhost:1313/tags/misc/</link>
+    <description>Recent content in Misc on Deadcats</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>@deadcats.space</copyright>
+    <lastBuildDate>Thu, 13 Nov 2025 15:00:00 +0545</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deadcats Start Operating 🐈‍⬛</title>
+      <link>http://localhost:1313/posts/deadcats-begins/</link>
+      <pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate>
+      <guid>http://localhost:1313/posts/deadcats-begins/</guid>
+      <description>&lt;p&gt;This is a short description of the post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>shit 🐈‍⬛</title>
+      <link>http://localhost:1313/posts/shit/</link>
+      <pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate>
+      <guid>http://localhost:1313/posts/shit/</guid>
+      <description>&lt;p&gt;This is a short description of the post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

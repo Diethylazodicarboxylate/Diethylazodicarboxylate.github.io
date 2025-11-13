@@ -1,11 +1,10 @@
 ---
-title: "DR.Who"
-photo: "/images/members/Ado.jpeg"
-role: "Web/Pwn"
+title: "58qbits"
+photo: "/images/members/qbits.gif"
+role: "Mr. All Rounder"
 links:
-  github: "https://github.com/alexowl"
-  linkedin: "https://linkedin.com/in/alexowl"
-  website: "https://0x0w1z.github.io"
+  github: "https://github.com/pratik90908"
+  linkedin: "https://www.linkedin.com/in/pratik-dahal-b44784191/"
 draft: false
 ---
-Why can't you trust At0m? Because they make everything up.
+Born in log files, raised by anomalies and where the system breathes lies; I listen for the truth in its traffic undefined, uncontained.

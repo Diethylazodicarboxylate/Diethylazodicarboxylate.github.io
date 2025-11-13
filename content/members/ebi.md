@@ -1,11 +1,10 @@
 ---
 title: "Ebi"
-photo: "/images/members/Ado.jpeg"
-role: "Web/Pwn"
+photo: "/images/members/ebi.jpg"
+role: "Web/Pwn/Rev/MalDev"
 links:
-  github: "https://github.com/alexowl"
-  linkedin: "https://linkedin.com/in/alexowl"
-  website: "https://0x0w1z.github.io"
+  github: "https://github.com/ebifriedrice"
+  linkedin: "https://linkedin.com/in/ebifriedrice"
 draft: false
 ---
-Why can't you trust At0m? Because they make everything up.
+Basically Shrimp 🦐.
