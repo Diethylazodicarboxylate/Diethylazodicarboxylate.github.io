@@ -1,4 +1,6 @@
-baseURL = 'https://diethylazodicarboxylate.github.io/'
+baseURL = '/'
+relativeURLs = true
+canonifyURLs = false
 languageCode = 'en-us'
 publishDir = 'docs'
 title = 'Deadcats'
