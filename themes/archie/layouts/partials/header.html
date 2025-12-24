@@ -50,31 +50,30 @@
 		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="{{ $darkstyle.Permalink }}" {{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)"{{ end }} {{ if eq .Site.Params.mode "toggle" }}disabled{{ end }} />
 	{{- end -}}
 
-<!-- Mathjax support -->
-{{- if (.Site.Params.mathjax | default false) -}}
-  <script type="text/javascript"
-    {{- if (.Site.Params.useCDN | default false) -}}
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    {{- else -}}
-      src="{{ absURL "js/MathJax.js" }}">
-    {{- end -}}
-  </script>
-  <!-- inline Mathjax -->
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']],
-        displayMath: [['$$','$$'], ['\[','\]']],
-        processEscapes: true,
-        processEnvironments: true,
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        TeX: { equationNumbers: { autoNumber: "AMS" },
-               extensions: ["AMSmath.js", "AMSsymbols.js"] }
-      }
-    });
-  </script>
-{{- end -}}
-
+	<!-- Mathjax support -->
+	{{- if .Site.Params.mathjax | default false -}}
+		<script type="text/javascript"
+		{{ if .Site.Params.useCDN | default false -}}
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		{{- else -}}
+		src="{{ absURL "js/MathJax.js" }}">
+		{{- end -}}
+		</script>
+		<!-- inline Mathjax -->
+		<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			tex2jax: {
+				inlineMath: [['$','$'], ['\\(','\\)']],
+				displayMath: [['$$','$$'], ['\[','\]']],
+				processEscapes: true,
+				processEnvironments: true,
+				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+				TeX: { equationNumbers: { autoNumber: "AMS" },
+						 extensions: ["AMSmath.js", "AMSsymbols.js"] }
+			}
+		});
+		</script>
+	{{- end -}}
 
 	<!-- KaTeX support -->
 	{{- if .Site.Params.katex | default false -}}
