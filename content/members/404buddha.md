@@ -1,7 +1,7 @@
 ---
 title: "404Buddha"
-photo: "/images/members/Ado.jpeg"
-role: "Web"
+photo: "/images/members/buddha.gif"
+role: "WEB"
 links:
   github: "https://github.com/alexowl"
   linkedin: "https://linkedin.com/in/alexowl"

@@ -1,7 +1,7 @@
 ---
 title: "P0u"
 photo: "/images/members/pou.jpeg"
-role: "Web/Crypto/Rev"
+role: "WEB/CRYPTO/REV"
 links:
   github: "https://github.com/alexowl"
   linkedin: "https://www.linkedin.com/in/nidan-poudel-a2250420b/"

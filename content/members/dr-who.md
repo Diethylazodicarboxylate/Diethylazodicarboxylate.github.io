@@ -1,7 +1,7 @@
 ---
-title: "58qbits"
+title: "Lostinwires"
 photo: "/images/members/qbits.gif"
-role: "Mr. All Rounder"
+role: "Mr. ALL ROUNDER"
 links:
   github: "https://github.com/pratik90908"
   linkedin: "https://www.linkedin.com/in/pratik-dahal-b44784191/"

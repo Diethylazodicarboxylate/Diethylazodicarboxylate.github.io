@@ -1,7 +1,7 @@
 ---
 title: "Ebi"
 photo: "/images/members/ebi.jpg"
-role: "Web/Pwn/Rev/MalDev"
+role: "WEB/PWN/REV/MALDEV"
 links:
   github: "https://github.com/ebifriedrice"
   linkedin: "https://linkedin.com/in/ebifriedrice"

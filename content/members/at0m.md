@@ -1,7 +1,7 @@
 ---
 title: "At0m"
 photo: "/images/members/at0m.gif"
-role: "Web/Pwn"
+role: "WEB/PWN"
 links:
   github: "https://github.com/At0mXploit"
   linkedin: "https://www.linkedin.com/in/rijan-poudel/"
