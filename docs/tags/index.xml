@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Deadcats</title>
-    <link>http://localhost:38759/tags/</link>
+    <link>http://localhost:39713/tags/</link>
     <description>Recent content in Tags on Deadcats</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>@deadcats.space</copyright>
     <lastBuildDate>Thu, 13 Nov 2025 15:00:00 +0545</lastBuildDate>
-    <atom:link href="http://localhost:38759/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:39713/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CVEs</title>
-      <link>http://localhost:38759/tags/cves/</link>
+      <link>http://localhost:39713/tags/cves/</link>
       <pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate>
-      <guid>http://localhost:38759/tags/cves/</guid>
+      <guid>http://localhost:39713/tags/cves/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Hacking</title>
-      <link>http://localhost:38759/tags/web-hacking/</link>
+      <link>http://localhost:39713/tags/web-hacking/</link>
       <pubDate>Thu, 13 Nov 2025 15:00:00 +0545</pubDate>
-      <guid>http://localhost:38759/tags/web-hacking/</guid>
+      <guid>http://localhost:39713/tags/web-hacking/</guid>
       <description></description>
     </item>
   </channel>
