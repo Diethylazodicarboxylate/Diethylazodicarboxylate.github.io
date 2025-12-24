@@ -8,4 +8,4 @@ links:
   website: "https://0xfrostyken.github.io/"
 draft: false
 ---
-Hunts everything like Frost Bite.
+All in for the vibes.
